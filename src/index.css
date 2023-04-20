@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.modal {
+  background-color: rgba(39, 14, 127, 0.34);
+}
+body {
+  background-color: #f1f5f9;
+}
